@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it? when you initialize a repository it allows git to track changed files. This is helpful when you want to look back on your history of changes.
+
